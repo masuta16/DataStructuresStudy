@@ -1,2 +1,2 @@
-# Estruturas-de-dados
-Estudo sobre estruturas de dados
+# Study about data structures
+Study about data structures
